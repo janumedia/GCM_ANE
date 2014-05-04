@@ -1,7 +1,7 @@
-GCM / Push Notification ANE for Android
+Push Notification ANE for Android
 ======================================
 
-GCM_ANE - [GCM (Google Cloud Messaging)] / Push Notification Native Extension for Android applications
+GCM_ANE - Push Notification Native Extension for Android applications using GCM (Google Cloud Messaging)
 
 This ANE based on [Afterick's idea](http://afterisk.wordpress.com/2012/09/22/the-only-free-and-fully-functional-android-gcm-native-extension-for-adobe-air/).
 
