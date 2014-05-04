@@ -18,6 +18,10 @@ Extension ID
 
 Usage
 ---------
+
+You will need the Project Number as GCM_SENDER_ID from the [Google APIs Console](http://support.google.com/googleplay/android-developer/bin/answer.py?hl=en&answer=2663268) where you enabled GCM.
+More information about GCM you can start from [here](http://developer.android.com/guide/google/gcm/index.html)
+
 ```
 var gcm:GCMExtension; = new GCMExtension();
 //trace (GCMExtension.VERSION);
@@ -53,8 +57,6 @@ Add inside Application tag, update YOUR_APP_BUNDLE_ID_HERE.
 	</intent-filter>
 </receiver>
 ```
-
-More information about GCM you can start from [here](http://developer.android.com/guide/google/gcm/index.html)
 
 Author
 ---------
